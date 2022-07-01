@@ -1,7 +1,7 @@
 {
-  "name": "Custom Volume Range",
-  "version": "0.1.0",
-  "description": "Allows to set a user's volume over 200%",
-  "author": "PandaDriver#1584",
+  "name": "Bubble Channel",
+  "version": "0.0.1",
+  "description": "Create a audio bubble into a vocal channel with other users in your current channel.",
+  "author": "Meeshoot#2488",
   "license": "MIT"
 }
